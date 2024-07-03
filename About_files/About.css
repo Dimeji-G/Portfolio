@@ -4534,9 +4534,7 @@ blockquote {
 }
 
 .back-cube {
-  transform-style: preserve-3d;
-  background-image: url("https://assets-global.website-files.com/66489968bb190295a61cf795/664e87556b2e70ee89df7390_hughes-img-02.webp");
-  background-position: 50%;
+  transform-style: preserve-3d;  background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
   justify-content: center;
