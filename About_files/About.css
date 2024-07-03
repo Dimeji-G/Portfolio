@@ -4534,7 +4534,8 @@ blockquote {
 }
 
 .back-cube {
-  transform-style: preserve-3d;  background-position: 50%;
+  transform-style: preserve-3d;
+  background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
   justify-content: center;
@@ -6225,7 +6226,9 @@ blockquote {
   }
 
   .right-cube {
-    height: 14rem;
+    position: absolute;
+    top: 0px;
+    height: 25rem;
     transform: translate(7rem)rotateX(0)rotateY(90deg)rotateZ(0);
   }
 
@@ -6235,9 +6238,12 @@ blockquote {
   }
 
   .left-cube {
-    height: 14rem;
+    position: absolute;
+    top: 0px;
+    height: 25rem;
     transform: translate(-7rem)rotateX(0)rotateY(-90deg)rotateZ(0);
   }
+
 
   .cube-item, .front-cube, .back-cube {
     width: 14rem;
