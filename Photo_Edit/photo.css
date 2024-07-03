@@ -4523,7 +4523,6 @@ blockquote {
 .front-cube {
   z-index: 1;
   transform-style: preserve-3d;
-  background-image: url("https://assets-global.website-files.com/66489968bb190295a61cf795/664e8a587d0757460b4b3825_hughes-img-01.webp");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4537,7 +4536,6 @@ blockquote {
 
 .back-cube {
   transform-style: preserve-3d;
-  background-image: url("https://assets-global.website-files.com/66489968bb190295a61cf795/664e87556b2e70ee89df7390_hughes-img-02.webp");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
